@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\Final Network\Section 10+template+desc\Network'sProject2015_2016\Networks%27 Project %5b2015-2016%5d\Networks' Project [2015-2016]\Template[2015-2016]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Final Network\Section 10+template+desc\Network'sProject2015_2016\Networks%27 Project %5b2015-2016%5d\Networks' Project [2015-2016]\Template[2015-2016]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Final Network\Section 10+template+desc\Network'sProject2015_2016\Networks%27 Project %5b2015-2016%5d\Networks' Project [2015-2016]\Template[2015-2016]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Final Network\Section 10+template+desc\Network'sProject2015_2016\Networks%27 Project %5b2015-2016%5d\Networks' Project [2015-2016]\Template[2015-2016]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Final Network\Section 10+template+desc\Network'sProject2015_2016\Networks%27 Project %5b2015-2016%5d\Networks' Project [2015-2016]\Template[2015-2016]\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
